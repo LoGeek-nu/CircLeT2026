@@ -1,0 +1,2 @@
+# CircLeT2026
+connpassに載せる用の画像置き場
